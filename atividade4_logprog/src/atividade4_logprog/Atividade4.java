@@ -6,7 +6,7 @@ public class Atividade4 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-
+	// pede os números decimais para o usuário
         System.out.print("Digite o primeiro número decimal: ");
         double n1 = scanner.nextDouble();
 
