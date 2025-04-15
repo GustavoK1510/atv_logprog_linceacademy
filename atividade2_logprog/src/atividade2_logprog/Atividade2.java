@@ -8,13 +8,13 @@ public class Atividade2 {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite 5 números inteiros: ");
-		
+		// pede 5 números para o usuário
 		int n1 = sc.nextInt();
 		int n2 = sc.nextInt();
 		int n3 = sc.nextInt();
 		int n4 = sc.nextInt();
 		int n5 = sc.nextInt();
-		
+		// mostra os resultados da forma correta
 		if (n1%2!=0) 
 		{
 			System.out.println(n1);			
