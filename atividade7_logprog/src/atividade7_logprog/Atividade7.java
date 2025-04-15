@@ -7,7 +7,7 @@ public class Atividade7 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-        // Entrada do número decimal
+        // Pede os números ao usuário
         System.out.print("Digite um número decimal: ");
         double n = sc.nextDouble();
 
