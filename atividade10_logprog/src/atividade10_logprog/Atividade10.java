@@ -19,7 +19,7 @@ public class Atividade10 {
             numeros[i] = sc.nextInt();
         }
 
-        // Ordenação dos números (Bubble Sort para evitar bibliotecas externas)
+        // Ordenação dos números
         ordenarCrescente(numeros);
 
         // Exibir resultados
