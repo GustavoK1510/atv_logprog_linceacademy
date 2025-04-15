@@ -6,7 +6,7 @@ public class Atividade6 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
+		// pede os valores ao usuário
 		System.out.println("Digite o valor do primeiro cateto: ");
 		double cateto1 = sc.nextDouble();
 		
@@ -22,7 +22,7 @@ public class Atividade6 {
 
 	        sc.close();
 	}
-	        
+	        // método da raiz quadrada
 		public static double raizQuadrada(double num) {
 	        double x = num;
 	        double y = 1.0;
